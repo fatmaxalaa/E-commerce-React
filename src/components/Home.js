@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import all from "../img/all.png";
 
 export default class Home extends Component {
   render() {
