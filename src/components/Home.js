@@ -40,7 +40,7 @@ export default class Home extends Component {
           <div className="row mt-5">
             <div className="col-2">
               <div className="catDiv">
-                <img src="../img/all.png" className="catImg" />
+                <img src="../../build/img/all.png" className="catImg" />
               </div>
               <p className="mt-2 all">All</p>
             </div>
